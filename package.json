@@ -1,0 +1,18 @@
+{
+  "name": "instagram-puppeteer-scrapy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "puppeteer": "^1.6.1",
+    "request": "^2.87.0",
+    "socks5-https-client": "^1.2.1"
+  }
+}
